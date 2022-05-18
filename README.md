@@ -1,1 +1,2 @@
-# w8-practices
+# w8-practices:
+methods: map, filter, reduce...
